@@ -1,5 +1,7 @@
 <div align="center">
 
+### 🛠️ Full-stack dev · 🤖 AI/ML tinkerer · 🐳 Self-hosting enthusiast · 📐 System design nerd
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Vighnesh%20%F0%9F%91%8B&fontSize=40&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Builder%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+cool+things+with+code;Always+learning+something+new;Turning+ideas+into+reality" />
