@@ -22,6 +22,20 @@
 
 <br/>
 
+## 🧠 What I Do
+
+- 👋 **Full-stack developer** who enjoys architecting and building **complete systems from scratch**
+- 🖥️ **Frontend:** Next.js, React
+- ⚙️ **Backend:** FastAPI, Python, Node.js
+- 🗄️ **Data & Infra:** PostgreSQL, Neo4j, Redis, Docker
+- 🏗️ Comfortable designing **multi-service architectures**
+- 🤖 **AI/ML Engineering:** integrating LLMs via **LiteLLM** and the **Model Context Protocol (MCP)**
+- 🧩 Exploring **persistent, structured memory** for AI applications
+- 🔒 Care about **clean system design** and **security-conscious defaults**
+- 📝 Write documentation that's **honest about trade-offs** — not just what works, but why and where it doesn't yet
+
+<br/>
+
 ## 🛠️ Tech Stack
 
 <table align="center">
@@ -68,14 +82,6 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivigh03&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ivigh03&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 <br/>
